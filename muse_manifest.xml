@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PlanetaInstr.com" resolutions="1x" timestamp="1470841019289">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PlanetaInstr.com" resolutions="1x" timestamp="1470843668635">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="340115041" ref="index"/>
+    <file name="index.css" crc="3823584852" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="интересные-позиции-электроприбор.xls" crc="76127685" seo="true" mt="1470834186000"/>
@@ -27,8 +27,8 @@
     <file name="form-u2945.php" crc="401426804" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="logo.svg" crc="4285724670" seo="true" ref="phone>index:index"/>
-    <file name="logo_poster_.png" crc="3938374094" ref="phone>index"/>
+    <file name="logo.svg" crc="4180253140" seo="true" ref="phone>index:index"/>
+    <file name="logo_poster_.png" crc="4087062461" ref="phone>index"/>
     <file name="phone.svg" crc="4276638228" seo="true" ref="phone>index:index"/>
     <file name="phone_poster_.png" crc="4064632179" ref="phone>index"/>
     <file name="fon5.jpg" crc="128060610" ref="phone>index:index"/>
@@ -155,10 +155,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3912488564" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4208609354" ref="phone>index"/>
+      <file name="index.css" crc="3945164541" ref="phone>index"/>
+      <file name="nomq_index.css" crc="85143253" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4086033914" seo="true" mt="1470840977081" redirect="true"/>
+    <file name="index.html" crc="4210853042" seo="true" mt="1470843650040" redirect="true"/>
   </folder>
-  <file name="index.html" crc="172998200" seo="true" mt="1470838057437" redirect="true"/>
+  <file name="index.html" crc="282593690" seo="true" mt="1470843303900" redirect="true"/>
 </manifest>
