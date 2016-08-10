@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PlanetaInstr.com" resolutions="1x" timestamp="1470838144993">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PlanetaInstr.com" resolutions="1x" timestamp="1470841019289">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="3771911203" ref="index"/>
+    <file name="index.css" crc="340115041" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="интересные-позиции-электроприбор.xls" crc="76127685" seo="true" mt="1470834186000"/>
@@ -34,7 +34,7 @@
     <file name="fon5.jpg" crc="128060610" ref="phone>index:index"/>
     <file name="u3155-6.png" crc="172671544" ref="phone>index"/>
     <file name="u3157-4.png" crc="499143791" ref="phone>index"/>
-    <file name="u3159-4.png" crc="392525125" ref="phone>index"/>
+    <file name="u3159-6.png" crc="234809848" ref="phone>index"/>
     <file name="lendtwo-u3160-fr.png" crc="78518928" ref="phone>index"/>
     <file name="fonshesterni_new-u3161-fr.png" crc="4003441021" ref="phone>index"/>
     <file name="promrobot535x310.png" crc="4162572345" seo="true" ref="phone>index"/>
@@ -46,12 +46,12 @@
     <file name="operator_poster_.png" crc="3799351046" ref="phone>index"/>
     <file name="u3191-8.png" crc="3799387587" ref="phone>index"/>
     <file name="u3192-7.png" crc="54734450" ref="phone>index"/>
-    <file name="безналичный-расчёт-через-терминал-u3185.png" crc="358317398" ref="phone>index"/>
-    <file name="icon_-17-u3187.png" crc="52398072" ref="phone>index"/>
+    <file name="безналичный-расчёт-через-терминал-u3185.png" crc="294020590" ref="phone>index"/>
+    <file name="icon_-17-u3187.png" crc="3891273404" ref="phone>index"/>
     <file name="u3218-4.png" crc="470901927" ref="phone>index"/>
     <file name="u3216.png" crc="4009917356" ref="phone>index"/>
     <file name="u3220-4.png" crc="4148235762" ref="phone>index"/>
-    <file name="снимок экрана 2016-07-16 в 211034-u3193.png" crc="3809381609" ref="phone>index"/>
+    <file name="снимок экрана 2016-07-16 в 211034-u3193.png" crc="4171488877" ref="phone>index"/>
     <file name="u3219-4.png" crc="259901665" ref="phone>index"/>
     <file name="u3647.png" crc="4009917356" ref="phone>index"/>
     <file name="u3202.png" crc="378604413" ref="phone>index"/>
@@ -68,19 +68,19 @@
     <file name="u3200-ferr.png" crc="167847208" ref="phone>index"/>
     <file name="u3155-62.png" crc="391341207" ref="phone>index"/>
     <file name="u3157-42.png" crc="3847839595" ref="phone>index"/>
-    <file name="u3159-42.png" crc="4213836410" ref="phone>index"/>
+    <file name="u3159-62.png" crc="332181618" ref="phone>index"/>
     <file name="lendtwo-u3160-fr2.png" crc="11197230" ref="phone>index"/>
     <file name="fonshesterni_new.png" crc="3875012172" ref="phone>index:index"/>
     <file name="promrobot350x203.png" crc="4047317734" seo="true" ref="phone>index"/>
     <file name="georoboto350x203.png" crc="282495314" seo="true" ref="phone>index"/>
     <file name="u3191-82.png" crc="4039999865" ref="phone>index"/>
-    <file name="u3192-72.png" crc="505422998" ref="phone>index"/>
-    <file name="безналичный-расчёт-через-терминал.png" crc="79936241" seo="true" ref="phone>index:index"/>
-    <file name="icon_-17-u31872.png" crc="4093721236" ref="phone>index"/>
+    <file name="u3192-72.png" crc="3796823524" ref="phone>index"/>
+    <file name="безналичный-расчёт-через-терминал.png" crc="3977194673" seo="true" ref="phone>index:index"/>
+    <file name="icon_-17-u31872.png" crc="244799748" ref="phone>index"/>
     <file name="u3218-42.png" crc="4052931231" ref="phone>index"/>
     <file name="u32162.png" crc="36068548" ref="phone>index"/>
     <file name="u3220-42.png" crc="129111727" ref="phone>index"/>
-    <file name="снимок экрана 2016-07-16 в 211034-u31932.png" crc="3921875488" ref="phone>index"/>
+    <file name="снимок экрана 2016-07-16 в 211034-u31932.png" crc="3933450028" ref="phone>index"/>
     <file name="u3219-42.png" crc="335152437" ref="phone>index"/>
     <file name="u36472.png" crc="36068548" ref="phone>index"/>
     <file name="u32022.png" crc="378604413" ref="phone>index"/>
@@ -95,6 +95,34 @@
     <file name="u3210-ferr2.png" crc="452635241" ref="phone>index"/>
     <file name="u32002.png" crc="118563011" ref="phone>index"/>
     <file name="u3200-ferr2.png" crc="167847208" ref="phone>index"/>
+    <file name="u3155-63.png" crc="4236974109" ref="phone>index"/>
+    <file name="u3157-43.png" crc="171348833" ref="phone>index"/>
+    <file name="u3159-63.png" crc="92064194" ref="phone>index"/>
+    <file name="lendtwo-u3160-fr3.png" crc="386027088" ref="phone>index"/>
+    <file name="fonshesterni_new-u3161-fr2.png" crc="4228096537" ref="phone>index"/>
+    <file name="promrobot299x174.png" crc="4244200700" seo="true" ref="phone>index"/>
+    <file name="georoboto299x174.png" crc="280950238" seo="true" ref="phone>index"/>
+    <file name="u3191-83.png" crc="228247471" ref="phone>index"/>
+    <file name="u3192-73.png" crc="3933172914" ref="phone>index"/>
+    <file name="icon_-17-u31873.png" crc="3775075784" ref="phone>index"/>
+    <file name="u3218-43.png" crc="396433213" ref="phone>index"/>
+    <file name="u32163.png" crc="4162629233" ref="phone>index"/>
+    <file name="u3220-43.png" crc="4292260156" ref="phone>index"/>
+    <file name="снимок экрана 2016-07-16 в 211034-u31933.png" crc="4288351116" ref="phone>index"/>
+    <file name="u3219-43.png" crc="372544045" ref="phone>index"/>
+    <file name="u36473.png" crc="4162629233" ref="phone>index"/>
+    <file name="u32023.png" crc="378604413" ref="phone>index"/>
+    <file name="u3202-ferr3.png" crc="404405587" ref="phone>index"/>
+    <file name="u32153.png" crc="38793678" ref="phone>index"/>
+    <file name="u3215-ferr3.png" crc="180527211" ref="phone>index"/>
+    <file name="u3205-173.png" crc="3821954364" ref="phone>index"/>
+    <file name="u3205-17-r3.png" crc="459147858" ref="phone>index"/>
+    <file name="u3205-17-m3.png" crc="3877051287" ref="phone>index"/>
+    <file name="u3205-17-fs3.png" crc="3888017713" ref="phone>index"/>
+    <file name="u32103.png" crc="3764824526" ref="phone>index"/>
+    <file name="u3210-ferr3.png" crc="452635241" ref="phone>index"/>
+    <file name="u32003.png" crc="118563011" ref="phone>index"/>
+    <file name="u3200-ferr3.png" crc="167847208" ref="phone>index"/>
     <file name="title.svg" crc="297535043" seo="true" ref="index"/>
     <file name="title_poster_.png" crc="332254537" ref="index"/>
     <file name="u342-6.png" crc="4182446693" ref="index"/>
@@ -103,10 +131,10 @@
     <file name="lendtwo.png" crc="337483771" ref="index"/>
     <file name="promrobot.png" crc="493495602" seo="true" ref="index"/>
     <file name="georoboto.png" crc="3985415247" seo="true" ref="index"/>
-    <file name="icon_-17-u2866.png" crc="395733703" ref="index"/>
+    <file name="icon_-17-u2866.png" crc="70031780" ref="index"/>
     <file name="u2897-8.png" crc="3837135241" ref="index"/>
     <file name="u2900-7.png" crc="164784243" ref="index"/>
-    <file name="снимок экрана 2016-07-16 в 211034-u2903.png" crc="73205865" ref="index"/>
+    <file name="снимок экрана 2016-07-16 в 211034-u2903.png" crc="534883004" ref="index"/>
     <file name="u2959.png" crc="378604413" ref="index"/>
     <file name="u2959-ferr.png" crc="404405587" ref="index"/>
     <file name="u2954.png" crc="38793678" ref="index"/>
@@ -127,10 +155,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="173313569" ref="phone>index"/>
-      <file name="nomq_index.css" crc="311639517" ref="phone>index"/>
+      <file name="index.css" crc="3912488564" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4208609354" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="335895361" seo="true" mt="1470838067405" redirect="true"/>
+    <file name="index.html" crc="4086033914" seo="true" mt="1470840977081" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3863691983" seo="true" mt="1470838057437" redirect="true"/>
+  <file name="index.html" crc="172998200" seo="true" mt="1470838057437" redirect="true"/>
 </manifest>
