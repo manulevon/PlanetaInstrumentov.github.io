@@ -1,87 +1,71 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Planetainstrumentov.com" resolutions="1x" timestamp="1470749425920">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PlanetaInstr.com" resolutions="1x" timestamp="1470834286753">
+  <folder name="assets">
+    <file name="интересные-позиции-электроприбор.xls" crc="76127685" seo="true" mt="1470834186000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="4117488732" ref="index"/>
-    <file name="nomq_index.css" crc="4058022881" ref="index"/>
-  </folder>
-  <folder name="assets">
-    <file name="снимок-экрана-2016-08-07-в-18.45.49.png" crc="259294112" seo="true" mt="1470584755000"/>
+    <file name="index.css" crc="340115041" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:index"/>
-    <file name="museutils.js" crc="3851988764" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
-    <file name="museconfig.js" crc="169177150" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:index"/>
-    <file name="require.js" crc="4108833657" ref="phone>index:index"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="169177150" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
     <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
     <file name="webpro.js" crc="4067903014" ref="index"/>
     <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
     <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
     <file name="form_check.php" crc="121412709" ref="index"/>
     <file name="form_throttle.php" crc="4268640971" ref="index"/>
     <file name="form_process.php" crc="444429785" ref="index"/>
-    <file name="form-u6297.php" crc="109105487" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+    <file name="form-u2945.php" crc="401426804" ref="index"/>
   </folder>
   <folder name="images">
     <file name="fon5.jpg" crc="128060610" ref="index"/>
-    <file name="u162-4.png" crc="509843231" ref="index"/>
-    <file name="phone.png" crc="3807404381" seo="true" ref="index"/>
-    <file name="time.png" crc="309286630" seo="true" ref="index"/>
-    <file name="planet.png" crc="3796769272" seo="true" ref="index"/>
-    <file name="instrument.png" crc="3907999532" seo="true" ref="index"/>
-    <file name="u649-4.png" crc="4137926454" ref="index"/>
-    <file name="u668-4.png" crc="376623325" ref="index"/>
-    <file name="u671-4.png" crc="384798493" ref="index"/>
-    <file name="u4059-4.png" crc="21288003" ref="index"/>
-    <file name="logotipy-1.jpg" crc="331902682" ref="index"/>
-    <file name="geo_36_5.png" crc="4175476644" seo="true" ref="index"/>
+    <file name="logo.svg" crc="4285724670" seo="true" ref="index"/>
+    <file name="logo_poster_.png" crc="3938374094" ref="index"/>
+    <file name="title.svg" crc="297535043" seo="true" ref="index"/>
+    <file name="title_poster_.png" crc="332254537" ref="index"/>
+    <file name="phone.svg" crc="4276638228" seo="true" ref="index"/>
+    <file name="phone_poster_.png" crc="4279971173" ref="index"/>
+    <file name="u342-6.png" crc="4182446693" ref="index"/>
+    <file name="u351-4.png" crc="3847839595" ref="index"/>
+    <file name="u402-4.png" crc="4213836410" ref="index"/>
+    <file name="lendtwo.png" crc="337483771" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="fonshesterni_32_5.png" crc="257163094" seo="true" ref="index"/>
-    <file name="u4577-6.png" crc="184219399" ref="index"/>
-    <file name="u4722-4.png" crc="3869686459" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="managedservices_icon_contactcenter.png" crc="4219706862" seo="true" ref="index"/>
-    <file name="koshelek.png" crc="4051699452" seo="true" ref="index"/>
-    <file name="безналичный-расчёт-через-терминал.png" crc="3895204119" seo="true" ref="index"/>
-    <file name="снимок экрана 2016-07-16 в 211034.jpg" crc="517892478" seo="true" ref="index"/>
-    <file name="u6298-17.png" crc="449215830" ref="index"/>
-    <file name="u6298-17-r.png" crc="79797703" ref="index"/>
-    <file name="u6298-17-m.png" crc="216154442" ref="index"/>
-    <file name="u6298-17-fs.png" crc="90536437" ref="index"/>
-    <file name="u6360.png" crc="4251888472" ref="index"/>
-    <file name="u6366.png" crc="4251888472" ref="index"/>
-    <file name="u6369-4.png" crc="236075761" ref="index"/>
-    <file name="u6372-4.png" crc="61322978" ref="index"/>
-    <file name="u6375-4.png" crc="4290872871" ref="index"/>
-    <file name="fon5-u408-fr.jpg" crc="3789538360" ref="index"/>
-    <file name="u162-42.png" crc="191152341" ref="index"/>
-    <file name="u649-42.png" crc="150765815" ref="index"/>
-    <file name="u668-42.png" crc="479373092" ref="index"/>
-    <file name="u671-42.png" crc="4022877307" ref="index"/>
-    <file name="u4059-42.png" crc="4174218411" ref="index"/>
-    <file name="logotipy-1-u3926-fr.jpg" crc="3848571213" ref="index"/>
-    <file name="u4577-62.png" crc="238582170" ref="index"/>
-    <file name="u4722-42.png" crc="386623496" ref="index"/>
-    <file name="u6298-172.png" crc="449215830" ref="index"/>
-    <file name="u6298-17-r2.png" crc="79797703" ref="index"/>
-    <file name="u6298-17-m2.png" crc="216154442" ref="index"/>
-    <file name="u6298-17-fs2.png" crc="90536437" ref="index"/>
-    <file name="u63602.png" crc="3777354419" ref="index"/>
-    <file name="u63662.png" crc="3777354419" ref="index"/>
-    <file name="u6369-42.png" crc="413825547" ref="index"/>
-    <file name="u6372-42.png" crc="4047251918" ref="index"/>
-    <file name="u6375-42.png" crc="251874882" ref="index"/>
+    <file name="fonshesterni_new.png" crc="3875012172" ref="index"/>
+    <file name="promrobot.png" crc="493495602" seo="true" ref="index"/>
+    <file name="georoboto.png" crc="3985415247" seo="true" ref="index"/>
+    <file name="oval 1.png" crc="112637778" ref="index"/>
+    <file name="безналичный-расчёт-через-терминал.png" crc="159016322" seo="true" ref="index"/>
+    <file name="icon_-17-u2866.png" crc="196552393" ref="index"/>
+    <file name="operator.svg" crc="4084035749" seo="true" ref="index"/>
+    <file name="operator_poster_.png" crc="4205292343" ref="index"/>
+    <file name="u2897-8.png" crc="3837135241" ref="index"/>
+    <file name="u2900-7.png" crc="164784243" ref="index"/>
+    <file name="снимок экрана 2016-07-16 в 211034-u2903.png" crc="3758307989" ref="index"/>
+    <file name="u2959.png" crc="378604413" ref="index"/>
+    <file name="u2959-ferr.png" crc="404405587" ref="index"/>
+    <file name="u2954.png" crc="38793678" ref="index"/>
+    <file name="u2954-ferr.png" crc="180527211" ref="index"/>
+    <file name="u2946-17.png" crc="3821954364" ref="index"/>
+    <file name="u2946-17-r.png" crc="459147858" ref="index"/>
+    <file name="u2946-17-m.png" crc="3877051287" ref="index"/>
+    <file name="u2946-17-fs.png" crc="3888017713" ref="index"/>
+    <file name="u2951.png" crc="3764824526" ref="index"/>
+    <file name="u2951-ferr.png" crc="452635241" ref="index"/>
+    <file name="u2999.png" crc="118563011" ref="index"/>
+    <file name="u2999-ferr.png" crc="167847208" ref="index"/>
+    <file name="u3009.png" crc="3954590835" ref="index"/>
+    <file name="u3012.png" crc="3954590835" ref="index"/>
+    <file name="u3015-4.png" crc="4052931231" ref="index"/>
+    <file name="u3018-4.png" crc="4119751880" ref="index"/>
+    <file name="u3021-4.png" crc="129111727" ref="index"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="268101125" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="238582018" seo="true" mt="1470729757229" redirect="false"/>
-  </folder>
-  <file name="index.html" crc="171951054" seo="true" mt="1470749202657" redirect="true"/>
+  <file name="index.html" crc="439598119" seo="true" mt="1470834277526" redirect="true"/>
 </manifest>
